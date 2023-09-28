@@ -24,7 +24,7 @@ pip install numpy opencv-python keras matplotlib
 2. Load the pre-trained model:
 
 ```python
-model = load_model("LOAD YOU H5 FILE")
+model = load_model("LOAD YOUR H5 FILE")
 ```
 
 3. Run the script. It will open your webcam and start analyzing facial emotions in real-time.
